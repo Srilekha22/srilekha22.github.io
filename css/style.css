@@ -1,0 +1,30 @@
+         
+#about{
+    background:coral;
+    padding:10px;
+}
+
+#image{
+    width:100px;
+    border:5px solid #1B9CFC;
+    border-radius:100px; 
+}
+
+.xyz{
+    background: #7f8fa6;
+}
+
+body{
+    background: #58B19F;
+}
+
+#box{
+    background: white;
+    width:500px;
+    min-height:500px;
+    margin:100px auto;
+    padding:50px;
+    border-radius: 10px;
+    border: 1px solid silver;
+}
+
